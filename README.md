@@ -3,9 +3,9 @@ This project uses Pytorch Framework for human face emotions detection. The proje
 The code first extracts the face from an image and then feed the face into the model for classification. 
 The code implements model building and training, model evaluation on test set and loading data using data loaders.
 
-#################
+#################/n
 ###File Order ###
-CV_CW-->
+
 
 	CW_Datset.zip --> # To be unzipped in colab for SVM and MLP training.
                 	train -->
