@@ -6,6 +6,7 @@ The code implements model building and training, model evaluation on test set an
 #################
 ###File Order ###
 CV_CW-->
+
 	CW_Datset.zip --> # To be unzipped in colab for SVM and MLP training.
                 	train -->
                     		image_1.jpg, image_2.jpg, .... n
