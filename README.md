@@ -5,7 +5,7 @@ The code implements model building and training, model evaluation on test set an
 
 
 
-####  File Order 
+###  File Order 
 
 
 	CW_Datset.zip --> # To be unzipped in colab for SVM and MLP training.
@@ -39,10 +39,10 @@ The code implements model building and training, model evaluation on test set an
 		test_functions.ipynb # Contains functions for running and visualising all trained models.
 		
 
-### Note
+#### Note
 Run test_functions.ipynb to test results.
 			
-## CONFIG.py
+#### CONFIG.py
 This file is to specify parameters which are being used in the entire project. 
 You must alter those parameters according to your dataset and other paths. For Example, in training parameters, you'd need to modify the number of classes, number of epochs, batch size and so on.
 
