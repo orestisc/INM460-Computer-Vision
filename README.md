@@ -30,7 +30,8 @@ The code implements model building and training, model evaluation on test set an
 			MLP_grid
 		Video --> 
 			video_elon.mp4
-		Config.py	# The following files are used for the training and validation of CNN model. CNN model was trained locally
+		Config.py	
+		# The following files are used for the training and validation of CNN model. CNN model was trained locally
 		dataset.py
 		EmotionRecognitionVideo.py
 		model.py
